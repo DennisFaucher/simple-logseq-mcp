@@ -2,6 +2,9 @@
 
 A simple [Model Context Protocol (MCP)](https://modelcontextprotocol.io/) server that connects Claude to your local [Logseq](https://logseq.com/) graph. Search pages and journal entries directly from Claude Desktop.
 
+<img width="612" height="480" alt="image" src="https://github.com/user-attachments/assets/fafeaf1d-41c0-40c9-9c5d-953c3f296039" />
+
+
 ## Features
 
 - **Full-text search** across all pages and journal entries
