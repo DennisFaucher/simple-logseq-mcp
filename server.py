@@ -15,7 +15,7 @@ logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
 LOGSEQ_API_URL = "http://localhost:12315/api"
-LOGSEQ_TOKEN = "claude_desktop_is_groovy"
+LOGSEQ_TOKEN = "your_token_goes_here"
 
 mcp = FastMCP("DennisLogseq")
 
