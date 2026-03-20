@@ -35,7 +35,7 @@ pip3 install mcp
 ### 2. Clone or download this server
 
 ```bash
-git clone https://github.com/yourusername/DennisLogseq.git
+git clone https://github.com/DennisFaucher/simple-logseq-mcp.git
 # or just download server.py
 ```
 
